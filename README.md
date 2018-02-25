@@ -4,4 +4,4 @@
 ### User
 `/etc/init.d/aria2 start`  
 `/etc/init.d/aria2 stop`  
-/etc/init.d/aria2 restart`  
+`/etc/init.d/aria2 restart`  
